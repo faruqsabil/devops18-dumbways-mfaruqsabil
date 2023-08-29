@@ -1,6 +1,6 @@
-DevOps adalah Kombinasi dari DEVELOPMENT dan OPERATION yang bertugas sebagai penghubung antara divisi Development (Programmer) dan Operation (Infrastructure Server). Agar bisa beradaptasi dengan cepat terhadap pembaruan maupun perubahan suatu product dan serta menghilangkan hambatan Komunikasi antara tim Development dan Operation, sehingga pada saat Deployment nantinya akan lebih konsisten dan lancar.
+1. DevOps adalah Kombinasi dari DEVELOPMENT dan OPERATION yang bertugas sebagai penghubung antara divisi Development (Programmer) dan Operation (Infrastructure Server). Agar bisa beradaptasi dengan cepat terhadap pembaruan maupun perubahan suatu product dan serta menghilangkan hambatan Komunikasi antara tim Development dan Operation, sehingga pada saat Deployment nantinya akan lebih konsisten dan lancar.
 
-Definis Devops terdiri dari 
+2. Definis Devops terdiri dari 
   - Plan : Proses perencanaan untuk seluruh alur kerja yang dibutuhkan sebelum developers mulai menulis kode program.
   - Code : Proses ini merupakan tahap dimana developers mulai menulis kode yang dibutuhkan untuk membuat suatu produk.
   - Build : Aplikasi yang sudah siap untuk masuk ke tahap pengujian, akan langsung di build supaya dapat mengetahui apakah kode tersebut masih terdapat error atau sudah layak masuk ke divisi tester.
@@ -10,5 +10,5 @@ Definis Devops terdiri dari
   - Operate : Aplikasi yang sudah selesai dijalankan pada server, maka dapat digunakan secara publik. Dan memastikan bahwa tidak ada masalah ketika di akses baik dari HP ataupun komputer.
   - Monitor : Tim Operations akan melakukan pemantauan infrastruktur, sistem, dan aplikasi. Hal ini dilakukan untuk memastikan bahwa produk atau aplikasi yang dikembangkan dapat berjalan dengan lancar.
 
-Langkah instalasi Ubuntu
+3. Langkah instalasi Ubuntu
   - 1 cpu 
