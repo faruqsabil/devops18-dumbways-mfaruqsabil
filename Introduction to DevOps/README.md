@@ -11,4 +11,8 @@
   - Monitor : Tim Operations akan melakukan pemantauan infrastruktur, sistem, dan aplikasi. Hal ini dilakukan untuk memastikan bahwa produk atau aplikasi yang dikembangkan dapat berjalan dengan lancar.
 
 3. Langkah instalasi Ubuntu
-  - 1 cpu 
+  - 1 cpu dan 1gb ram
+    ![image](https://github.com/faruqsabil/devops18-dumbways-mfaruqsabil/assets/101464748/a23f3b84-c5cc-42eb-94e3-74f2d0262f6b)
+
+  - setup ip static
+    
