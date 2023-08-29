@@ -12,6 +12,7 @@
 
 3. Langkah instalasi Ubuntu
   - 1 cpu dan 1gb ram
+
     ![image](https://github.com/faruqsabil/devops18-dumbways-mfaruqsabil/assets/101464748/a23f3b84-c5cc-42eb-94e3-74f2d0262f6b)
 
   - setup ip static
