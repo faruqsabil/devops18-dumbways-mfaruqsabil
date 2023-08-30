@@ -1,1 +1,1 @@
-
+1. IP Address Publik adalah alamat IP yang digunakan router untuk berkomunikasi dengan jaringan yang lebih luas. Diberikan oleh penyedia layanan internet (ISP), dimana terdapat informasi sehingga dapat dilacak. IP Address Private adalah alamat IP pribadi yang dimiliki oleh setiap perangkat, entah itu laptop, smart TV atau smartphone yang terhubung ke jaringan lokal.
