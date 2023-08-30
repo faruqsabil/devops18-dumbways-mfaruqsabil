@@ -25,4 +25,7 @@
 
   - Ping 8.8.8.8/google.com
 
+    ![image](https://github.com/faruqsabil/devops18-dumbways-mfaruqsabil/assets/101464748/57ecf5ee-fa64-49ef-9343-857e8daa6441)
+
+
     
