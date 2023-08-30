@@ -15,5 +15,10 @@
 
     ![image](https://github.com/faruqsabil/devops18-dumbways-mfaruqsabil/assets/101464748/a23f3b84-c5cc-42eb-94e3-74f2d0262f6b)
 
-  - setup ip static
+  - Setup ip static
+
+    ![image](https://github.com/faruqsabil/devops18-dumbways-mfaruqsabil/assets/101464748/3f25ea98-9c49-4406-ba3a-c33cb0d69a28)
+
+  - Install OpenSSH Server
+
     
