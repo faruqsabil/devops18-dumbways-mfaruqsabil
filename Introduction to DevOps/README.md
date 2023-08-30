@@ -21,4 +21,8 @@
 
   - Install OpenSSH Server
 
+    ![image](https://github.com/faruqsabil/devops18-dumbways-mfaruqsabil/assets/101464748/2dfe36a1-1816-49da-ac2f-b332df770d81)
+
+  - Ping 8.8.8.8/google.com
+
     
