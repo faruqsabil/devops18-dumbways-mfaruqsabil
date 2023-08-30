@@ -7,3 +7,5 @@
     - Subnet : 255.255.255.0
     - Gateway : 192.168.1.1
 
+![Untitled Diagram](https://github.com/faruqsabil/devops18-dumbways-mfaruqsabil/assets/101464748/4e76bb64-9cee-4a44-a844-81a38d083cb3)
+
