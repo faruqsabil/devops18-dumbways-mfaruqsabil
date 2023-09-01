@@ -2,6 +2,8 @@
 
 ![image](https://github.com/faruqsabil/devops18-dumbways-mfaruqsabil/assets/101464748/ba31c932-2bcb-46f2-b98b-8772fd39fcc4)
 
+![image](https://github.com/faruqsabil/devops18-dumbways-mfaruqsabil/assets/101464748/b21d987e-bb40-4afc-a2f5-2618d3c36eef)
+
 2. rancangan sebuah jaringan dengan spesifikasi
     - CIDR Block : 192.168.1.xxx/24
     - Subnet : 255.255.255.0
