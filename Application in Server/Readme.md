@@ -6,4 +6,5 @@ Deploy Aplikasi wayshub-frontend (NodeJS)
 
  ![image](https://github.com/faruqsabil/devops18-dumbways-mfaruqsabil/assets/101464748/7d914805-92fd-4658-8fc1-dc3c89102341)
 
+![image](https://github.com/faruqsabil/devops18-dumbways-mfaruqsabil/assets/101464748/06bcdb60-22a2-42c4-b18b-e309ba8b0e15)
 
