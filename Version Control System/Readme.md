@@ -11,6 +11,14 @@
 
    ![image](https://github.com/faruqsabil/devops18-dumbways-mfaruqsabil/assets/101464748/6ef866f8-3547-497b-bea6-3f9ccfe0d739)
 
+   git add adalah perintah yang digunakan dalam sistem kontrol versi Git untuk menambahkan perubahan yang telah Anda buat pada file atau direktori ke dalam area         penyiapan (staging area) sebelum Anda melakukan commit.
+
+   ![image](https://github.com/faruqsabil/devops18-dumbways-mfaruqsabil/assets/101464748/ca1863a4-b422-4bf7-aed8-6c216beaaecb)
+
+   git commit adalah perintah dalam sistem kontrol versi Git yang digunakan untuk menyimpan perubahan yang telah Anda tambahkan ke dalam staging area ke dalam           riwayat perubahan (history) repositori Git
+
+   ![image](https://github.com/faruqsabil/devops18-dumbways-mfaruqsabil/assets/101464748/1f8e6ed8-1ff5-47fe-b5b4-ad9592f630bb)
+
 
 
    
