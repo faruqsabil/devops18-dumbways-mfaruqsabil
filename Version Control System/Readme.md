@@ -6,6 +6,9 @@
 
 3. Buat 2 branch
 
+   ![image](https://github.com/faruqsabil/devops18-dumbways-mfaruqsabil/assets/101464748/0494ec34-84cf-47d6-9867-257960615037)
+
+
 
 4. .gitignore adalah sebuah file yang berisi daftar nama-nama file dan direktori yang akan diabaikan/diasingkan oleh git.
 
