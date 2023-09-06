@@ -2,4 +2,7 @@
 
 2.  buat repository dengan nama makanan kesukaan kalian (diluar tugas) yang berisi 3 file dengan isi yang berbeda
 
+   ![image](https://github.com/faruqsabil/devops18-dumbways-mfaruqsabil/assets/101464748/3ac0ede9-c1ed-49ee-9663-690528018689)
+
+
    
