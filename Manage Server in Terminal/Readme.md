@@ -15,3 +15,10 @@ Teks Manipulation adalah proses mengubah, memanipulasi, atau memanipulasi teks y
 
 htop dan nmon adalah dua perangkat lunak yang digunakan untuk memonitor performa sistem di lingkungan Linux. Keduanya memberikan informasi yang berguna tentang penggunaan sumber daya dan aktivitas sistem, tetapi memiliki tampilan dan fitur yang sedikit berbeda. htop merupakan perintah untuk memonitoring sistem, kita dapat melihat penggunaan memory, cpu, swap. nmon adalah utilitas monitor sistem yang lebih sederhana dan kuat yang tersedia di sebagian besar distribusi Linux.
 
+buatlah BASH Script untuk instalasi nginx
+
+![image](https://github.com/faruqsabil/devops18-dumbways-mfaruqsabil/assets/101464748/6e31d2d8-87c5-4afb-9df3-8c6d36278171)
+
+![image](https://github.com/faruqsabil/devops18-dumbways-mfaruqsabil/assets/101464748/d7d81325-ef1c-4558-bb11-fc2c99f3f48a)
+
+
