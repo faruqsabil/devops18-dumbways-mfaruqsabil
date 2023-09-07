@@ -14,3 +14,4 @@ Teks Manipulation adalah proses mengubah, memanipulasi, atau memanipulasi teks y
   -Pengubahan Format (Text Formatting): Merubah tata letak atau format teks, seperti membuat teks tebal, miring, atau mengatur paragraf.
 
 htop dan nmon adalah dua perangkat lunak yang digunakan untuk memonitor performa sistem di lingkungan Linux. Keduanya memberikan informasi yang berguna tentang penggunaan sumber daya dan aktivitas sistem, tetapi memiliki tampilan dan fitur yang sedikit berbeda. htop merupakan perintah untuk memonitoring sistem, kita dapat melihat penggunaan memory, cpu, swap. nmon adalah utilitas monitor sistem yang lebih sederhana dan kuat yang tersedia di sebagian besar distribusi Linux.
+
